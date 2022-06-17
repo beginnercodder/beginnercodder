@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beginnercodder
 - 👀 I’m interested in learn new something.
-- 🌱 I’m currently learning I want to learn finish HTML, then I will start JavaScript.
-- 💞️ I’m looking to collaborate on nothing right now.
+- 🌱 I want to learn finish HTML, then I will start JavaScript.
 - 📫 How to reach me with this message.
 
 <!---
